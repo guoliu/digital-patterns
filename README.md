@@ -1,5 +1,4 @@
-# digital-patterns
-A Pattern Language for Digital Spaces.
+# A Pattern Language for Digital Spaces
 
 **tl;dr**:
 
