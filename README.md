@@ -1,5 +1,7 @@
 # A Pattern Language for Digital Spaces
 
+PDF file: https://github.com/guoliu/digital-patterns/blob/main/assets/Digital%20Pattern%20Language.pdf
+
 **tl;dr**:
 
 5 candidate patterns are being documented on [GitHub issues](https://github.com/guoliu/digital-patterns/issues?q=is%3Aissue+is%3Aopen+sort%3Acreated-asc), comments and suggestions welcome! 
